@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Top</h1>
 <h3 align="left">Now, I am currently a student at Chiang Mai University.</h3>
+<img src="https://media1.giphy.com/media/iFfUrmX8ZbZGJGDNWD/giphy.gif?cid=ecf05e47vjn06i36oeprqay8rq8asbm9bggrpwxjvenkjge8&rid=giphy.gif&ct=g
+" width="40" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
