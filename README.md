@@ -1,6 +1,10 @@
 <h1 align="left">Hi 👋, I'm Top</h1>
+
+<div>
 <h3 align="left">Now, I am currently a student at Chiang Mai University.</h3>
 <img src="https://sv1.picz.in.th/images/2023/01/22/JIBjd8.gif" alt="JIBjd8.gif" border="0" />
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
