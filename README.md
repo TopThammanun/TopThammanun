@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Top</h1>
 <h3 align="left">Now, I am currently a student at Chiang Mai University.</h3>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/iFfUrmX8ZbZGJGDNWD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pikachu-pixel-art-pikasip-iFfUrmX8ZbZGJGDNWD">via GIPHY</a></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
